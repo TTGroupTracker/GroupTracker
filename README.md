@@ -10,7 +10,10 @@ Usage guidelines:
 
 2. If you are using it for a private server's IRC, please contact me or bawb for permission. While you do not have to follow this rule, doing so may increase the possibility of support with errors or whatnot. Toontown Infinite is cleared to use this if wanted. 
 
-3. More to be added (maybe?)
+3. Leave a bit of credit in there to BawbCat and me, at least in "who made GT" action.
+
+4. more to come (maybe?) 
+
 
 
 Requirements:
