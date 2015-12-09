@@ -37,7 +37,7 @@ build with ant, make sure you added pircbot to your classpath.
 
 make a direct link to the jar file built in dist/GroupTracker.jar and the pircbot.jar in dist/lib.
  
- >> go to grouptrackerupdate section of the repository
+ >> go to grouptrackerupdate section of the repository https://github.com/TTGroupTracker/GroupTrackerUpdate
  
  edit src/bawbcat/gtupdater/Updater.java to include a direct link to the grouptracker.jar and pircbot.jar
  
