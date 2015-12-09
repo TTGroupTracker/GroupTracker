@@ -5,6 +5,7 @@ Original GroupTracker by BawbCat from 2014.
 If you would like to improve anything or find a bug, you are welcome to submit a pull request.
 
 Usage guidelines:
+
 1. Do NOT log in with the name "GroupTracker", as that might confuse people of being ran officially. Instead, add a different suffix like "GroupBot", "TTGroupsbot", or most anything else.
 
 2. If you are using it for a private server's IRC, please contact me or bawb for permission. While you do not have to follow this rule, doing so may increase the possibility of support with errors or whatnot. Toontown Infinite is cleared to use this if wanted. 
