@@ -17,10 +17,15 @@ Usage guidelines:
 
 
 Requirements:
+
 apache ant. super hard to set up on windows, no help here
+
 recommended IDE: eclipse. netbeans may work for you with some tinkering
+
 in IDE: add pircbot.jar (from /dist/lib) to classpath 
+
 recommended to run using the JDK or JRE to build with ant. Whichever one builds successfully
+
 
 to start:
 
